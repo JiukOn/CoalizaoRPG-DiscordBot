@@ -1,0 +1,42 @@
+[
+  {
+    "nome": "Aura do Pesar",
+    "descricao": "O personagem emana tristeza e sofrimento, oprimindo o ambiente e fazendo os outros o verem como uma figura de desolação. Causa Medo e fortalece traumas em seres no alcance, manifestando a essência do ativador. Afetados testam (1d20<RES/2 do alvo) para resistir à opressão emocional."
+  },
+  {
+    "nome": "Aura da Desordem",
+    "descricao": "O personagem irradia imprevisibilidade, parecendo fora de sincronia com a realidade e inspirando desorientação. Causa Confusão em todos os seres no alcance, distorcendo sua percepção. Afetados testam (1d20<RES/2 do alvo) para resistir; falha com prejuízo ≤7 causa 1d4 de dano e incapacita compreensão de palavras."
+  },
+  {
+    "nome": "Aura do Tirano",
+    "descricao": "O personagem exala autoridade sombria, dominando e subjugando, sendo visto como figura de poder. Amplifica debuffs e maldições (prejuízo extra para resistir) em todos os seres no alcance, e aumenta encantamentos de armas próprias em +2 ao dado de ataque. Afetados testam (1d20<RES/2 do alvo) para resistir com prejuízo."
+  },
+  {
+    "nome": "Aura do Opressor",
+    "descricao": "O personagem emana presença esmagadora, drenando energia e vontade, tornando os outros lentos e pesados. Causa Fraqueza (perde 1d4 dano, -2 FRC em testes) e Lentidão (dado de prejuízo para movimento) em todos os seres no alcance. Afetados testam (1d20<(o maior atributo entre RES/2 ou FRC/2) do alvo) para resistir, rolando com prejuízo."
+  },
+  {
+    "nome": "Aura da Inspiração",
+    "descricao": "O personagem irradia confiança e carisma, sendo visto como líder, fortalecendo a todos e fazendo quem o confronta vacilar. Todos os seres no alcance ganham +2 no dado para todos os testes por 2 turnos. No entanto, se o afetado falhar em teste (1d20<RES/2 do alvo), sofre \"Perda de Confiança\" (-1 FRC ou DEX)."
+  },
+  {
+    "nome": "Aura da Ocultação",
+    "descricao": "O personagem se mistura ao ambiente, tornando-se difícil de notar, como um vulto nebuloso. Diminui a percepção (testes de PRE) de todos os seres no alcance em -3 no dado. O usuário ganha +2 no dado em testes de Furtividade. Todos os seres no alcance fazem testes de PRE para percebê-lo com desvantagem."
+  },
+  {
+    "nome": "Aura da Harmonia",
+    "descricao": "O personagem emana paz e equilíbrio, sendo visto como pacificador que acalma tensões. Reduz hostilidade entre todos os seres no alcance, concedendo +3 no dado para testes de CRM sociais. Impõe -1 no dado para testes de ataques iniciais entre quaisquer seres na área (exceto o usuário)."
+  },
+  {
+    "nome": "Aura da Revelação",
+    "descricao": "O personagem emana luz que revela verdades ocultas, sendo visto como portador da verdade. Todos os seres no alcance testam (1d20<INT/2 do alvo); sucesso revela pista vaga sobre segredo. Aumenta sucesso de testes de INT e PRE em investigações na área em +3 no dado. Usuário tem RES reduzida em -1 temporariamente."
+  },
+  {
+    "nome": "Aura da Regeneração",
+    "descricao": "O personagem irradia vitalidade, um bálsamo para feridas, sendo percebido como curador. Todos os seres no alcance restauram 1 VIT por turno. O usuário perde 2 ENR temporariamente por turno enquanto a aura estiver ativa, canalizando sua própria energia para a cura."
+  },
+  {
+    "nome": "Aura do Caos",
+    "descricao": "O personagem é uma força imprevisível e perturbadora, distorcendo a realidade ao redor. Impõe desvantagem em todos os testes de D20 de todos os seres no alcance. Concede +2 ao dado para o usuário em qualquer ação. Magias e habilidades mágicas na área gastam +1 ENR."
+  }
+]

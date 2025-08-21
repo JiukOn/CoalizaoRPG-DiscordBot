@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Humano",
+    "descricao": "Os humanos são a espécie mais numerosa e adaptável, conhecidos por sua diversidade cultural e engenhosidade. Eles não possuem habilidades inatas especiais, mas compensam com sua resiliência e a capacidade de se destacar em qualquer área."
+  },
+  {
+    "nome": "Demonio",
+    "descricao": "Nascidos nas profundezas, os demônios são seres com afinidade natural por poderes infernais. Suas habilidades podem variar, mas geralmente incluem resistência ao fogo e a capacidade de manipular energias sombrias."
+  },
+  {
+    "nome": "Elfo",
+    "descricao": "Os elfos são seres de longevidade e graça, profundamente conectados à natureza e à magia. Eles se destacam em arcos e flechas, magias elementais e têm uma percepção aguçada do ambiente."
+  },
+  {
+    "nome": "Kobold",
+    "descricao": "Pequenos, covardes e astutos, os kobolds são seres subterrâneos com uma forte paixão por armadilhas e mineração. Embora fracos em combate direto, são mestres em táticas de emboscada e sobrevivência em túneis."
+  },
+  {
+    "nome": "Yomunkai",
+    "descricao": "Uma espécie rara e mística, os Yomunkai são seres que se parecem com repteis, mas com um corpo humanoide, e com uma forte conexão com o subsolo. Eles são amarelos e belos."
+  },
+  {
+    "nome": "Monstro",
+    "descricao": "Uma categoria ampla que abrange criaturas únicas e singulares. Um personagem monstro pode ter uma forma e habilidades completamente diferentes das outras espécies, tornando-o imprevisível e poderoso, com uma habilidade unica, essa habilidade não é magia."
+  },
+  {
+    "nome": "Elfo negro",
+    "descricao": "Originalmente elfos que foram amaldiçoados, eles vivem no submundo. Os elfos negros são seres com uma forte afinidade com magia e com armas de combate a curta distancia. Diferente dos elfos, eles não sentem o frio, mas em compensação, não aguentam altas temperaturas."
+  },
+  {
+    "nome": "Gigante",
+    "descricao": "Os gigantes são notavelmente altos e fortes, eles são um pouco mais lentos, mas compensam com sua resiliencia e força"
+  },
+  {
+    "nome": "Anão",
+    "descricao": "Eles herdam a barba e a força de seus pais, têm uma resistência elevada e são ótimos mineradores. Eles também são incansáveis, podendo trabalhar por horas seguidas."
+  }
+]

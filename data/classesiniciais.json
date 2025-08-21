@@ -1,0 +1,107 @@
+[
+  {
+    "classe": "Bardo",
+    "habilidade_nome": "Acorde",
+    "habilidade_descricao": "Ao tocar uma melodia específica, o usuário concede +1 em dois atributos escolhidos por 2 turnos para o alvo. Exige 1d20 > 16 para cada tentativa de uso apos a finalização dos primeiros efeitos na situação atual."
+  },
+  {
+    "classe": "Pesquisador",
+    "habilidade_nome": "Apuração",
+    "habilidade_descricao": "Com foco aguçado, o usuário pode detectar informações cruciais sobre o ambiente, o sistema e os seres ao seu redor. O efeito acontece se o teste (1d20 + INT > 14) for bem sucedido."
+  },
+  {
+    "classe": "Mentalista",
+    "habilidade_nome": "Aroma",
+    "habilidade_descricao": "Exala hormônios que podem acalmar ou enlouquecer seres próximos. Teste de 1d20 + CRM > 1d20 + RES do alvo."
+  },
+  {
+    "classe": "Cultista",
+    "habilidade_nome": "Batalha Mental",
+    "habilidade_descricao": "O usuário pode tentar transferir um efeito mental negativo de um aliado para um inimigo. Role o teste (1d20 + RES > 1d20 + RES do alvo), se for bem sucedido a transferência ocorre e se o teste falhar, o efeito é transferido para o próprio usuário."
+  },
+  {
+    "classe": "Domador",
+    "habilidade_nome": "Contrato de Sangue",
+    "habilidade_descricao": "Ao gastar 10 XP, o usuário pode tentar estabelecer um contrato com um ser não inteligente. Faça um teste comparando (1d20 + o maior valor entre sua INT ou CRM) contra (1d20 + o maior valor entre a INT ou CRM do alvo). Se o resultado do usuário for superior, o contrato é aceito. Se o teste inicial falhar, o usuário faz outro teste (1d20 >= 18) se este último também falhar, o usuário perde 15 XP adicionais (o nível não regride, mas o XP pode ficar negativo)."
+  },
+  {
+    "classe": "Defensor",
+    "habilidade_nome": "Corpo Endurecido",
+    "habilidade_descricao": "O usuário endurece seu corpo, ganhando +2 FRC por 3 turnos. Exige 1d20 > 16 para cada tentativa de uso apos a finalização dos primeiros efeitos na situação atual."
+  },
+  {
+    "classe": "Cozinheira",
+    "habilidade_nome": "Cozer",
+    "habilidade_descricao": "O usuário pode preparar alimentos complexos que concedem bônus específicos. Um teste bem-sucedido (1d20 > 14) na preparação garante os bônus, cuja qualidade é ampliada pela qualidade dos ingredientes utilizados."
+  },
+  {
+    "classe": "Florista",
+    "habilidade_nome": "Enraizar",
+    "habilidade_descricao": "O usuário invoca raízes que prendem o alvo. Se o teste (1d20 + ENR) for maior que o teste do alvo (1d20 + o maior entre FRC ou DEX), o alvo fica imobilizado por 2 turnos."
+  },
+  {
+    "classe": "Espadachim",
+    "habilidade_nome": "Esgrima Avançada",
+    "habilidade_descricao": "Ao utilizar lâminas, o usuário causa +1 de dano por 3 turnos. Para reativar esta habilidade na mesma situação/combate após seus efeitos cessarem, o usuário deve ter sucesso em um teste (1d20 > 16)."
+  },
+  {
+    "classe": "Monge",
+    "habilidade_nome": "Espírito Inquebrantável",
+    "habilidade_descricao": "Durante 3 turnos, o usuário canaliza a harmonia entre corpo e mente, entrando em um estado de concentração absoluta. Ele recebe +2 RES e pode anular um dano físico direto por turno se o seu teste (1d20) for menor que sua RES. Para reativar esta habilidade na mesma situação/combate após seus efeitos cessarem, o usuário deve ter sucesso em um teste (1d20 > 16)."
+  },
+  {
+    "classe": "Evocador",
+    "habilidade_nome": "Evocar Energia",
+    "habilidade_descricao": "O usuário libera energia mágica em proximidade, causando 1d4 de dano mágico. Além disso, se o teste (1d20 > 16) for bem-sucedido, ele remove efeitos psicológicos negativos de si mesmo."
+  },
+  {
+    "classe": "Ladino",
+    "habilidade_nome": "Furto",
+    "habilidade_descricao": "Durante a tentativa de furto, o usuário recebe +2 DEX. Se o teste (1d20 + DEX) for maior que o teste do alvo (1d20 + PRE, se for um ser), o furto é bem-sucedido."
+  },
+  {
+    "classe": "Encantador",
+    "habilidade_nome": "Gravura Rúnica",
+    "habilidade_descricao": "O usuário pode aplicar um efeito rúnico pré-determinado em um item. Para o sucesso (1d20 > 18), são consumidos Núcleos Mágicos de acordo com o efeito. Esta habilidade pode ser usada apenas uma vez por dia. Se o teste falhar, o usuário sofre 1 de dano."
+  },
+  {
+    "classe": "Tecnólogo",
+    "habilidade_nome": "Invenção",
+    "habilidade_descricao": "O usuário pode usar materiais para criar um item de alta qualidade. Para o sucesso (1d20 > 18), os materiais são consumidos. Se o teste falhar (1d20 < 8), parte dos materiais é consumida e nada é criado. Caso o teste resulte entre 1d20 > 8 e < 18, nada é consumido e nada é criado."
+  },
+  {
+    "classe": "Vendedor",
+    "habilidade_nome": "Lábia",
+    "habilidade_descricao": "O usuário pode tentar forçar um convencimento. Se 1d20 for > 16, o receptor é convencido. Se o dado for < 8, o receptor se torna hostil ao usuário."
+  },
+  {
+    "classe": "Registrador",
+    "habilidade_nome": "Livro Mágico",
+    "habilidade_descricao": "O usuário pode mostrar a ficha de qualquer ser vivo que esteja em um nível igual ou menor ao seu próprio."
+  },
+  {
+    "classe": "Lutador",
+    "habilidade_nome": "Mãos Pesadas",
+    "habilidade_descricao": "Aumenta 2 de dano no corpo a corpo por 2 turnos. Para reativar esta habilidade na mesma situação/combate após seus efeitos cessarem, o usuário deve ter sucesso em um teste (1d20 > 16)."
+  },
+  {
+    "classe": "Feirante",
+    "habilidade_nome": "Negociar",
+    "habilidade_descricao": "O usuário tem maior probabilidade de receber o que deseja. Se 1d12 >= 7, o usuário pode negociar com maior facilidade. (Requer INT 8)."
+  },
+  {
+    "classe": "Sombra",
+    "habilidade_nome": "Passos Silenciosos",
+    "habilidade_descricao": "Aumenta +2 DEX, diminui em 2 nos dados de testes de percepção inimigos, e dura 2 turnos. Para reativar esta habilidade na mesma situação/combate após seus efeitos cessarem, o usuário deve ter sucesso em um teste (1d20 > 16)."
+  },
+  {
+    "classe": "Atirador",
+    "habilidade_nome": "Tiro ao Alvo",
+    "habilidade_descricao": "Aumenta 1 de dano a longa distância utilizando armas com munição por 2 turnos. Para reativar esta habilidade na mesma situação/combate após seus efeitos cessarem, o usuário deve ter sucesso em um teste (1d20 > 16)."
+  },
+  {
+    "classe": "Alquimista",
+    "habilidade_nome": "Troca",
+    "habilidade_descricao": "O usuário pode inverter o material de 2 itens se o teste (1d20 > 16) for bem-sucedido."
+  }
+]

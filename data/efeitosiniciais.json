@@ -1,0 +1,54 @@
+[
+  {
+    "nome": "Medo",
+    "descricao": "O usuário faz um teste (1d20 <= 11) no inicio de seu turno,se falhar ele não pode fazer nenhuma ação no turno."
+  },
+  {
+    "nome": "Confusão",
+    "descricao": "Da um dado de prejuízo para acertar qualquer ação ou ataque, se o valor for <= 7 o afetado recebe 1d4 de dano. Além disso, o afetado se torna incapaz de compreender palavras."
+  },
+  {
+    "nome": "Ansiedade",
+    "descricao": "O afetado recebe -1 CRM temporariamente, se torna incapaz de se comunicar por longos periodos e toma decisões incertas."
+  },
+  {
+    "nome": "Depressivo",
+    "descricao": "O afetado toma decisões que maleficiam a si próprio e recebe -2 CRM temporariamente."
+  },
+  {
+    "nome": "Afasia",
+    "descricao": "O afetado recebe -2 CRM quando forçado ou induzido a falar, se 1d4 <= 2 o personagem se torna incapaz de compreender e entonar palavras."
+  },
+  {
+    "nome": "Prosopagnosia",
+    "descricao": "Se 1d4 <= 2 O afetado se torna incapaz de identificar rostos, se o personagem não for capaz de identificar outro personagem já conhecido com esse efeito ativo então recebe -1 CRM temporariamente."
+  },
+  {
+    "nome": "Impostor",
+    "descricao": "Se 1d4 <= 2 O afetado se sente inferior aos outros, se 1d4 <= 2 o afetado se torna indeciso e perde seu turno."
+  },
+  {
+    "nome": "Protagonista",
+    "descricao": "O afetado se arrisca mais que outros por acreditar ser especial, se 1d4 <= 2 o personagem pode perder o controle de suas ações."
+  },
+  {
+    "nome": "TDAH",
+    "descricao": "se 1d4 <= 2 o afetado pode perder o controle de suas ações. O personagem se torna incapaz de entender o que está fazendo e como as coisas estão acontecendo de maneira clara."
+  },
+  {
+    "nome": "Maníaco",
+    "descricao": "O afetado perde o controle das ações e age por impulso se 1d4 <= 2."
+  },
+  {
+    "nome": "Hiperfoco",
+    "descricao": "Se 1d4 <= 2 o afetado esquece do que está acontecendo ao redor e age no automático."
+  },
+  {
+    "nome": "Dislexia",
+    "descricao": "O afetado recebe -2 no valor dos dados de aprendizado."
+  },
+  {
+    "nome": "Servidão",
+    "descricao": "O afetado teme o seu 'soberano'."
+  }
+]

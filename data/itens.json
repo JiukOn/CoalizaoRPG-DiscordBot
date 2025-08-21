@@ -1,0 +1,570 @@
+[
+  {
+    "id": 1,
+    "nome": "Adaga de Aço",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "bonus": "+1 PRE",
+    "dano": "1d4 - 1",
+    "modificacao": "Afiado: +1 de dano.",
+    "durabilidade": 15
+  },
+  {
+    "id": 2,
+    "nome": "Adaga de Cobre",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "dano": "1d4 - 2",
+    "modificacao": "Frágil: Mais suscetível a quebrar.",
+    "durabilidade": 10
+  },
+  {
+    "id": 3,
+    "nome": "Adaga de Ferro",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "dano": "1d4 - 1",
+    "modificacao": "Perfurador: +1 de dano.",
+    "durabilidade": 15
+  },
+  {
+    "id": 4,
+    "nome": "Adaga Gêmea (Água)",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "bonus": "+4 FRC, +3 PRE",
+    "dano": "1d4 + 2",
+    "modificacao": "Aquático: Adquire o elemento Água, pode causar Afogamento.",
+    "durabilidade": 25
+  },
+  {
+    "id": 5,
+    "nome": "Adaga Gêmea (Fogo)",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "bonus": "+3 FRC, +4 PRE",
+    "dano": "1d4 + 2",
+    "modificacao": "Quente: Adquire o elemento Fogo, pode causar Queimadura.",
+    "durabilidade": 25
+  },
+  {
+    "id": 6,
+    "nome": "Bastão de Madeira",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "bonus": "+1 PRE",
+    "dano": "1d4 - 2",
+    "modificacao": "Frágil: Mais suscetível a quebrar.",
+    "durabilidade": 8
+  },
+  {
+    "id": 7,
+    "nome": "Chicote de Couro",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "bonus": "+1 DEX",
+    "dano": "1d4 - 1",
+    "modificacao": "Leve: +1 no dado em testes de ataque com PRE.",
+    "durabilidade": 8
+  },
+  {
+    "id": 8,
+    "nome": "Corrente Laminada",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "dano": "1d4 - 2",
+    "modificacao": "Fortificado: +1 no dado em testes de Defesa.",
+    "durabilidade": 25
+  },
+  {
+    "id": 9,
+    "nome": "Espada de Madeira",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "bonus": "+1 FRC",
+    "dano": "1d4 - 2",
+    "modificacao": "Frágil: Mais suscetível a quebrar.",
+    "durabilidade": 10
+  },
+  {
+    "id": 10,
+    "nome": "Espada do Vazio",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "bonus": "+8 FRC, -4 DEX",
+    "dano": "2d4 + 4",
+    "modificacao": "Energizador: Uma vez por combate, anula 1 de dano elemental. Pode reduzir o dado de ataque do oponente em 2.",
+    "durabilidade": 20,
+    "requisitos": "20 FRC"
+  },
+  {
+    "id": 11,
+    "nome": "Estrela da Meia-Noite",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "bonus": "+1 FRC, -1 DEX",
+    "dano": "1d4",
+    "modificacao": "Pesado: +1 no dado em testes de ataque, -1 em testes de esquiva.",
+    "durabilidade": 20
+  },
+  {
+    "id": 12,
+    "nome": "Faca de Serra",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "dano": "1d4 - 2",
+    "modificacao": "Afiado: +1 de dano.",
+    "durabilidade": 8
+  },
+  {
+    "id": 13,
+    "nome": "Foice de Jardinagem",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "dano": "1d4 - 2",
+    "modificacao": "Frágil: Mais suscetível a quebrar.",
+    "durabilidade": 8
+  },
+  {
+    "id": 14,
+    "nome": "Lâmina do Bardo",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "dano": "1d4 + 1",
+    "modificacao": "Barulhento: Pode desorientar oponentes.",
+    "durabilidade": 15
+  },
+  {
+    "id": 15,
+    "nome": "Martelo Kilicêkan",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "bonus": "+3 ENR, +1 FRC",
+    "dano": "1d4 + 3",
+    "modificacao": "Imbuídor: Pode gastar 1 ENR para aumentar o dano em 1.",
+    "durabilidade": 25
+  },
+  {
+    "id": 16,
+    "nome": "Martelo de Guerra",
+    "tipo": "Arma",
+    "subtipo": "Proximidade",
+    "bonus": "+1 FRC, -1 DEX",
+    "dano": "1d4 + 1",
+    "modificacao": "Pesado: +1 no dado em testes de ataque, -1 em testes de esquiva.",
+    "durabilidade": 20
+  },
+  {
+    "id": 17,
+    "nome": "Arco de Guerra",
+    "tipo": "Arma",
+    "subtipo": "Distância",
+    "bonus": "+3 PRE",
+    "distancia": "16 metros",
+    "modificacao": "Perceptivo: Uma vez por combate, pode ignorar a defesa do alvo.",
+    "durabilidade": 18
+  },
+  {
+    "id": 18,
+    "nome": "Arco de Treino",
+    "tipo": "Arma",
+    "subtipo": "Distância",
+    "bonus": "+1 PRE",
+    "distancia": "8 metros",
+    "modificacao": "Leve: +1 no dado em testes de ataque com PRE.",
+    "durabilidade": 12
+  },
+  {
+    "id": 19,
+    "nome": "Besta de Guarda",
+    "tipo": "Arma",
+    "subtipo": "Distância",
+    "bonus": "+2 PRE",
+    "distancia": "12 metros",
+    "modificacao": "Pesado: +1 no dado em testes de ataque, -1 em testes de esquiva.",
+    "durabilidade": 18
+  },
+  {
+    "id": 20,
+    "nome": "Core Beast",
+    "tipo": "Arma",
+    "subtipo": "Distância",
+    "bonus": "+2 PRE, +3 ENR",
+    "distancia": "20 metros",
+    "modificacao": "Leve: +1 no dado em testes de ataque com PRE.",
+    "durabilidade": 20
+  },
+  {
+    "id": 21,
+    "nome": "Culverin",
+    "tipo": "Arma",
+    "subtipo": "Distância",
+    "bonus": "+3 PRE",
+    "distancia": "20 metros",
+    "modificacao": "Pesado: +1 no dado em testes de ataque, -1 em testes de esquiva.",
+    "durabilidade": 20
+  },
+  {
+    "id": 22,
+    "nome": "Estilingue",
+    "tipo": "Arma",
+    "subtipo": "Distância",
+    "bonus": "+1 PRE",
+    "distancia": "8 metros",
+    "modificacao": "Leve: +1 no dado em testes de ataque com PRE.",
+    "durabilidade": 10
+  },
+  {
+    "id": 23,
+    "nome": "Funda",
+    "tipo": "Arma",
+    "subtipo": "Distância",
+    "distancia": "4 metros",
+    "modificacao": "Frágil: Mais suscetível a quebrar.",
+    "durabilidade": 10
+  },
+  {
+    "id": 24,
+    "nome": "Lançador Energético",
+    "tipo": "Arma",
+    "subtipo": "Distância",
+    "bonus": "+2 PRE",
+    "distancia": "32 metros",
+    "modificacao": "Imbuídor: Pode gastar 1 ENR para aumentar o dano em 1.",
+    "durabilidade": 20,
+    "municao": "1 ENR do usuário"
+  },
+  {
+    "id": 25,
+    "nome": "Correntes de Defesa",
+    "tipo": "Escudo",
+    "defesa": "1d4 - 3",
+    "durabilidade": 25
+  },
+  {
+    "id": 26,
+    "nome": "Escudo do Vazio",
+    "tipo": "Escudo",
+    "defesa": "1d4 + 2",
+    "bonus": "+2 FRC, -2 DEX",
+    "modificacao": "Reduz o dado de ataque do oponente em 4. Energizador: Uma vez por combate, anula 1 de dano elemental.",
+    "durabilidade": 25
+  },
+  {
+    "id": 27,
+    "nome": "Escudo Largo de Madeira",
+    "tipo": "Escudo",
+    "defesa": "1d4 - 2",
+    "modificacao": "Fortificado: +1 no dado em testes de Defesa.",
+    "durabilidade": 15
+  },
+  {
+    "id": 28,
+    "nome": "Escudo Redondo de Madeira",
+    "tipo": "Escudo",
+    "defesa": "1d4 - 3",
+    "modificacao": "Frágil: Mais suscetível a quebrar.",
+    "durabilidade": 10
+  },
+  {
+    "id": 29,
+    "nome": "Quebrador de Espada",
+    "tipo": "Escudo",
+    "defesa": "1d4 - 3",
+    "durabilidade": 20
+  },
+  {
+    "id": 30,
+    "nome": "Cabeça Ancestral",
+    "tipo": "Vestimenta",
+    "subtipo": "Cabeça",
+    "bonus": "+2 ENR, +3 INT",
+    "modificacao": "Vigoroso: Uma vez por dia, pode tentar remover um efeito psicológico (1d20 > 18).",
+    "durabilidade": 20
+  },
+  {
+    "id": 31,
+    "nome": "Colar do Abismo",
+    "tipo": "Vestimenta",
+    "subtipo": "Pescoço",
+    "habilidade": "Olhar do Abismo: Causa MEDO por 2 turnos. Concede 1 dado bônus para convencimento forçado.",
+    "modificacao": "Malicioso",
+    "durabilidade": 50,
+    "requisitos": "ENR 8, CRM < 5"
+  },
+  {
+    "id": 32,
+    "nome": "Camisa de Passos Fofos",
+    "tipo": "Vestimenta",
+    "subtipo": "Corpo",
+    "efeito": "Maldição: Fraqueza - Se FRC > FRC do alvo, perde -2 FRC e -1 DEX.",
+    "durabilidade": 4
+  },
+  {
+    "id": 33,
+    "nome": "Anel Mahil Pya",
+    "tipo": "Vestimenta",
+    "subtipo": "Mãos",
+    "bonus": "+4 ENR, +2 RES",
+    "modificacao": "Vigoroso: Uma vez por dia, pode tentar remover um efeito psicológico (1d20 > 18).",
+    "durabilidade": 20
+  },
+  {
+    "id": 34,
+    "nome": "Anel Vulcânico",
+    "tipo": "Vestimenta",
+    "subtipo": "Mãos",
+    "bonus": "+3 ENR",
+    "modificacao": "Quente: Ataques adquirem elemento Fogo e podem causar Queimadura.",
+    "durabilidade": 20
+  },
+  {
+    "id": 35,
+    "nome": "Escaravelho",
+    "tipo": "Vestimenta",
+    "subtipo": "Acessório das Mãos",
+    "bonus": "+2 ENR, +3 INT",
+    "habilidade": "Impulso Espectral: Ganha +2 FRC ou DEX por 4 turnos e perde 1 XP.",
+    "durabilidade": 50,
+    "requisitos": "INT 8"
+  },
+  {
+    "id": 36,
+    "nome": "Botas Sombras Abaixo",
+    "tipo": "Vestimenta",
+    "subtipo": "Pé",
+    "bonus": "+2 DEX",
+    "modificacao": "Camuflado: +1 no dado em testes de Furtividade.",
+    "durabilidade": 15
+  },
+  {
+    "id": 37,
+    "nome": "Bolas de Metal",
+    "tipo": "Projétil",
+    "dano": "1d4 + 1"
+  },
+  {
+    "id": 38,
+    "nome": "Dardo",
+    "tipo": "Projétil",
+    "dano": "1d4 - 2",
+    "modificacao": "Frágil: Mais suscetível a quebrar."
+  },
+  {
+    "id": 39,
+    "nome": "Energia",
+    "tipo": "Projétil",
+    "dano": "1d4 + 5",
+    "custo": "-1 ENR temporário por uso."
+  },
+  {
+    "id": 40,
+    "nome": "Flechas Leves",
+    "tipo": "Projétil",
+    "dano": "1d4"
+  },
+  {
+    "id": 41,
+    "nome": "Flechas Médias",
+    "tipo": "Projétil",
+    "dano": "1d4 + 2",
+    "modificacao": "Perfurador: +1 de dano."
+  },
+  {
+    "id": 42,
+    "nome": "Flechas Pesadas",
+    "tipo": "Projétil",
+    "dano": "1d4 + 4"
+  },
+  {
+    "id": 43,
+    "nome": "Pedra",
+    "tipo": "Projétil",
+    "dano": "1d4 - 2"
+  },
+  {
+    "id": 44,
+    "nome": "Rosas Forger",
+    "tipo": "Projétil",
+    "dano": "1d4",
+    "efeito": "Causa 'Envenenado' e pode ativar efeitos psicológicos existentes."
+  },
+  {
+    "id": 45,
+    "nome": "Shuriken",
+    "tipo": "Projétil",
+    "dano": "1d4 - 1",
+    "modificacao": "Afiado: +1 de dano."
+  },
+  {
+    "id": 46,
+    "nome": "Cajado de Carvalho",
+    "tipo": "Item Mágico",
+    "bonus": "+2 PRE",
+    "modificacao": "Vigoroso: Uma vez por dia, pode tentar remover um efeito psicológico (1d20 > 18).",
+    "durabilidade": 20
+  },
+  {
+    "id": 47,
+    "nome": "Cajado de Grama",
+    "tipo": "Item Mágico",
+    "bonus": "+1 PRE, +1 DEX",
+    "modificacao": "Leve: +1 no dado em testes de ataque com PRE.",
+    "durabilidade": 15
+  },
+  {
+    "id": 48,
+    "nome": "Cajado de Sangue",
+    "tipo": "Item Mágico",
+    "bonus": "+1 PRE, +1 ENR",
+    "modificacao": "Vigoroso: Uma vez por dia, pode tentar remover um efeito psicológico (1d20 > 18).",
+    "durabilidade": 20
+  },
+  {
+    "id": 49,
+    "nome": "Vareta",
+    "tipo": "Item Mágico",
+    "modificacao": "Prático: Vantagem em testes de criação ou reparo.",
+    "durabilidade": 5
+  },
+  {
+    "id": 50,
+    "nome": "Vareta Especial",
+    "tipo": "Item Mágico",
+    "bonus": "+1 PRE",
+    "modificacao": "Imbuídor: Pode canalizar energia.",
+    "durabilidade": 10
+  },
+  {
+    "id": 51,
+    "nome": "Martelo de Ferreiro",
+    "tipo": "Ferramenta",
+    "bonus": "+2 PRE",
+    "dano": "1d4 - 1",
+    "modificacao": "Prático: Otimiza a eficiência em testes de criação ou reparo.",
+    "durabilidade": 15
+  },
+  {
+    "id": 52,
+    "nome": "Pincel",
+    "tipo": "Ferramenta",
+    "bonus": "+1 PRE ao criar Arte.",
+    "durabilidade": 10
+  },
+  {
+    "id": 53,
+    "nome": "Alma Densa do Potencial",
+    "tipo": "Consumível",
+    "efeito": "Aumenta 0.5 do multiplicador em um atributo escolhido."
+  },
+  {
+    "id": 54,
+    "nome": "Chá de Bati",
+    "tipo": "Consumível",
+    "efeito": "Restaura 1d4 - 1 de VIT (1d20 > 10)."
+  },
+  {
+    "id": 55,
+    "nome": "Cogumelo Verde",
+    "tipo": "Consumível",
+    "efeito": "Adormece qualquer criatura de nível 1."
+  },
+  {
+    "id": 56,
+    "nome": "Coração de Tinta",
+    "tipo": "Consumível",
+    "habilidade": "Concede a habilidade 'Domínio de Tinta', status 'Rei Tinta' e +2 ENR permanente."
+  },
+  {
+    "id": 57,
+    "nome": "Elixir da Vida",
+    "tipo": "Consumível",
+    "efeito": "Aumenta 1 ponto de VIT permanentemente."
+  },
+  {
+    "id": 58,
+    "nome": "Ervas Psicodélicas",
+    "tipo": "Consumível",
+    "efeito": "Gera alucinações. Restaura 1d4 - 1 de VIT (1d20 > 10)."
+  },
+  {
+    "id": 59,
+    "nome": "Estrela de Belém",
+    "tipo": "Consumível",
+    "efeito": "Recebe o dobro de XP e garante a capacidade de transcender."
+  },
+  {
+    "id": 60,
+    "nome": "Fruta da Aura",
+    "tipo": "Consumível",
+    "efeito": "Muda a aura do personagem."
+  },
+  {
+    "id": 61,
+    "nome": "Xarope",
+    "tipo": "Consumível",
+    "efeito": "Cura gripes (1d20 > 10)."
+  },
+  {
+    "id": 62,
+    "nome": "Ricino",
+    "tipo": "Veneno",
+    "efeito": "Causa 1d4 - 1 de dano de VIT a cada turno."
+  },
+  {
+    "id": 63,
+    "nome": "Veneno Pedroso",
+    "tipo": "Veneno",
+    "efeito": "Causa o efeito 'Travado' ao alvo."
+  },
+  {
+    "id": 64,
+    "nome": "Bateria Energética",
+    "tipo": "Item Diverso",
+    "efeito": "Armazena até 5 ENR."
+  },
+  {
+    "id": 65,
+    "nome": "Binóculo",
+    "tipo": "Item Diverso",
+    "efeito": "+1 PRE em testes de percepção visual."
+  },
+  {
+    "id": 66,
+    "nome": "Câmera Fotográfica Energética",
+    "tipo": "Item Diverso",
+    "custo": "Requer papel e 1 de energia."
+  },
+  {
+    "id": 67,
+    "nome": "Gema Energética",
+    "tipo": "Item Diverso",
+    "bonus": "+1 ENR",
+    "efeito": "Pode ser usada para melhorar outros itens."
+  },
+  {
+    "id": 68,
+    "nome": "Grimório",
+    "tipo": "Item Diverso",
+    "efeito": "Pode ensinar uma habilidade energética (teste de INT)."
+  },
+  {
+    "id": 69,
+    "nome": "Livro Religioso",
+    "tipo": "Item Diverso",
+    "efeito": "Aumenta convencimento. Pode diminuir 1 RES do alvo (1d20 >= 12)."
+  },
+  {
+    "id": 70,
+    "nome": "Livro Satoré",
+    "tipo": "Item Diverso",
+    "efeito": "O livro religioso da Igreja Unsato."
+  },
+  {
+
+    "id": 71,
+    "nome": "Tela",
+    "tipo": "Item Diverso",
+    "efeito": "Material para receber pigmento e criar formas."
+  }
+]

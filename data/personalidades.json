@@ -1,0 +1,54 @@
+[
+  {
+    "nome": "Serenidade",
+    "descricao": "Seu personagem mantém a calma sob pressão, respondendo a crises com ponderação. É uma força interior que busca soluções racionais, agindo como mediador e inspirando confiança. Sua imperturbável presença o destaca em qualquer situação."
+  },
+  {
+    "nome": "Júbilo",
+    "descricao": "Uma alegria vibrante impulsiona seu personagem, que encontra otimismo mesmo na adversidade. Sua energia é contagiante, levantando o ânimo e desarmando situações com bom humor. Ele valoriza as pequenas belezas e a promessa de um amanhã melhor."
+  },
+  {
+    "nome": "Ímpeto",
+    "descricao": "Seu personagem possui uma energia inquieta, preferindo agir diretamente em vez de esperar. A inação alheia o frustra e ele opta por resoluções rápidas, mesmo que arriscadas. Sua natureza explosiva garante que ele raramente seja pego desprevenido."
+  },
+  {
+    "nome": "Desencanto",
+    "descricao": "Seu personagem raramente se surpreende, tendo visto demais ou perdido a capacidade de se maravilhar. Age com pragmatismo frio, sem esperança ou desespero, e suas respostas são frequentemente sarcásticas. O mundo é visto com distanciamento filosófico."
+  },
+  {
+    "nome": "Benevolência",
+    "descricao": "O bem-estar dos outros é prioridade para seu personagem, que se arrisca para proteger os mais fracos. Ele oferece ajuda sem hesitar e busca a justiça para todos, não apenas para si. Sua bússola moral o guia em cada ação."
+  },
+  {
+    "nome": "Pragmatismo",
+    "descricao": "Seu personagem foca em eficiência e funcionalidade, com decisões baseadas em lógica e resultados. Ele evita sentimentalismos, vendo emoções como distrações. O mundo é um sistema a ser manipulado para alcançar objetivos claros."
+  },
+  {
+    "nome": "Zelo",
+    "descricao": "Uma paixão intensa ou uma causa consome seu personagem, que a persegue com devoção quase fanática. Ele é incansável em sua dedicação, disposto a sacrifícios e a enfrentar obstáculos. Essa determinação o torna um aliado inabalável ou um adversário temível."
+  },
+  {
+    "nome": "Vigilância",
+    "descricao": "Com os sentidos sempre alertas, seu personagem busca ameaças e oportunidades no ambiente. Ele desconfia facilmente e prefere a precaução, notando armadilhas e padrões incomuns. Sua natureza cautelosa garante sua sobrevivência."
+  },
+  {
+    "nome": "Fervor",
+    "descricao": "Seu personagem é guiado por uma intensa paixão e entusiasmo inabalável. Há uma energia ardente em suas ações, um desejo de mergulhar de cabeça nos desafios. Essa intensidade pode torná-lo inspirador, mas às vezes dramático ou impulsivo."
+  },
+  {
+    "nome": "Consciência",
+    "descricao": "Seu personagem pondera cada ação por suas implicações a longo prazo e impacto moral. Ele carrega o peso do conhecimento, buscando a redenção ou o \"certo\". Essa profundidade o torna um conselheiro valioso, mas também alguém com um fardo considerável."
+  },
+  {
+    "nome": "Apatia",
+    "descricao": "Seu personagem exibe profundo desinteresse pelo mundo e pelos outros. Emoções e motivação são mínimas, a menos que haja benefício próprio. Essa indiferença pode irritar ou desesperar quem busca ajuda."
+  },
+  {
+    "nome": "Arrogância",
+    "descricao": "Seu personagem se considera superior a todos em intelecto ou importância. Ele despreza opiniões alheias e a humildade, subestimando aliados e adversários. Sua autoconvicção inabalável o faz buscar validação constantemente."
+  },
+  {
+    "nome": "Hostilidade",
+    "descricao": "Uma postura defensiva e agressiva define seu personagem, que vê o mundo como uma ameaça constante. Pequenas provocações podem gerar raiva e reações desproporcionais. Ele encontra satisfação em confrontos, tornando a convivência difícil."
+  }
+]
